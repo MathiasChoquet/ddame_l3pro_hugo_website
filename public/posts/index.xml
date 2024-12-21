@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Dec 2024 11:03:56 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Html</title>
+      <link>http://localhost:1313/posts/html/</link>
+      <pubDate>Sat, 21 Dec 2024 11:03:56 +0100</pubDate>
+      <guid>http://localhost:1313/posts/html/</guid>
+      <description>&lt;h1 id=&#34;le-html-pour-les-l3-pro&#34;&gt;Le HTML pour les L3 Pro&lt;/h1&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris accumsan, augue eget pharetra mollis, metus urna posuere neque, vitae interdum nisl turpis vitae felis. Suspendisse blandit placerat tortor non tincidunt. Maecenas ultricies laoreet convallis. Curabitur at sagittis nibh. Fusce leo magna, dapibus eu consectetur at, suscipit vitae felis. Duis consequat est non mattis suscipit. Etiam sapien sapien, finibus ac leo vel, malesuada venenatis sapien. Nunc pretium vitae odio non convallis. Quisque id augue scelerisque dui vehicula iaculis. Suspendisse sed sem id turpis ultrices rutrum. Nullam mollis posuere tellus nec condimentum. Aenean porttitor lacus ut diam convallis, nec ultricies dui eleifend. Maecenas tempor erat lacus, vel viverra libero sollicitudin nec. Maecenas sed massa convallis purus fermentum faucibus. Cras massa nisi, cursus a pulvinar in, fermentum id lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
