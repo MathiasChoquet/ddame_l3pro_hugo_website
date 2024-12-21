@@ -1,0 +1,26 @@
+# Fichiers et dossiers générés par Hugo
+public/
+resources/
+hugo_stats.json
+.hugo_build.lock
+
+# Logs & autres fichiers temporaires
+*.log
+*.cache
+
+# Fichiers de configuration locaux
+.env
+.env.*
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+
+# Node.js (si vous utilisez npm/yarn dans votre projet Hugo)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Autres fichiers potentiellement sensibles
+*.swp
+*.swo
