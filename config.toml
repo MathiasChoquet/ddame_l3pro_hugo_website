@@ -1,0 +1,84 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'DDAMEE HTML HUGO'
+theme = 'ananke'
+
+[params]
+background_color_class="bg-white"
+author = "mathias.cjhqoue"
+favicon = ""
+site_logo = "img/UT2.png"
+
+[menu]
+
+  [[menu.main]]
+  identifier = "accueil"
+  name = "Accueil"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  identifier = "a-propos"
+  name = "À propos"
+  url = "/about/"
+  weight = 2
+
+  [[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 3
+
+  [[menu.main]]
+  identifier = "xml"
+  name = "XML"
+  url = "/xml"
+  weight = 4
+
+  [[menu.main]]
+  identifier = "xml"
+  name = "XML"
+  url = "/xml"
+  weight = 5
+
+  [[menu.main]]
+  identifier = "html"
+  name = "HTML"
+  url = "/html"
+  weight = 6
+
+  [[menu.main]]
+  identifier = "css"
+  name = "CSS"
+  url = "/css"
+  weight = 7
+
+  [[menu.main]]
+  identifier = "markdown"
+  name = "Markdown"
+  url = "/markdown"
+  weight = 8
+
+  [[menu.main]]
+  identifier = "git"
+  name = "Git"
+  url = "/git"
+  weight = 9  
+
+  [[menu.main]]
+  identifier = "Generateurs_HTML"
+  name = "Générateurs HTML"
+  url = "/Generateurs_HTML"
+  weight = 10  
+
+  [[menu.main]]
+  identifier = "jekyll"
+  name = "Jekyll"
+  url = "/jekyll"
+  weight = 11 
+
+  [[menu.main]]
+  identifier = "hugo"
+  name = "Hugo"
+  url = "/hugo"
+  weight = 12  
