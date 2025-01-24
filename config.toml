@@ -68,7 +68,7 @@ site_logo = "img/UT2.png"
   [[menu.main]]
   identifier = "Generateurs_HTML"
   name = "Générateurs HTML"
-  url = "/Generateurs_HTML"
+  url = "/generateurs_html"
   weight = 10  
 
   [[menu.main]]

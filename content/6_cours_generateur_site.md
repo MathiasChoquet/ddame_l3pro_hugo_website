@@ -1,8 +1,7 @@
 +++
 title='Générateurs HTML'
-url = "/Generateurs_HTML"
+url = "/generateurs_html"
 +++
-
 
 # Générateurs de Sites Statiques : Jekyll et Hugo
 
