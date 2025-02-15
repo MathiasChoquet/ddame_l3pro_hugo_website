@@ -82,3 +82,9 @@ site_logo = "img/UT2.png"
   name = "Hugo"
   url = "/hugo"
   weight = 12  
+
+  [[menu.main]]
+  identifier = "envdev"
+  name = "Installation des Environnements de Développement"
+  url = "/envdev"
+  weight = 12
