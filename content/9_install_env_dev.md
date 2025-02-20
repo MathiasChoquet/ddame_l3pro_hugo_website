@@ -80,7 +80,7 @@ Hugo est écrit en **Go (Golang)**, un langage de programmation développé par 
 
 ### Liens pour autres systèmes :
 
-- **macOS** : [Installation sur macOS](https://gohugo.io/installation/macos/)
+- **macOS** : [Installation sur macOS](https://gohugo.io/installation/macos/#homebrew)
 - **Linux** : [Installation sur Linux](https://gohugo.io/installation/linux/)
 
 ---

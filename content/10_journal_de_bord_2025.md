@@ -71,3 +71,15 @@ Les modèles de boites :
 
 - https://developer.mozilla.org/fr/docs/Learn_web_development/Core/Styling_basics/Box_model
 - https://www.pierre-giraud.com/html-css-apprendre-coder-cours/modele-boite/
+
+# 2eme cours
+
+## Git
+
+### Contenu
+
+- Inscription des étudiants avec une adresse personnelle à github.
+- Envoi du login ou de l'email github sur mon adresse universitaire
+- Cours sur git : https://mathiaschoquet.github.io/ddame_l3pro_hugo_website/git/
+- Inscription au dépôt : https://github.com/MathiasChoquet/ddame_l3pro_hugo_website.git
+- Modification du site ddame_l3pro_hugo avec création de posts (/content/posts) : afin de se familiariser avec git

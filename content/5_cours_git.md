@@ -3,10 +3,9 @@ title='Git'
 url="git"
 +++
 
-
 # Introduction à
 
-![Slide 1 Image](../assets/images/cours_git_images/slide_1.jpg)
+![Slide 1 Image](/img/cours_git_images/slide_1.jpg)
 
 # Problématiques
 
@@ -79,14 +78,14 @@ url="git"
   - Récupération propre (git fetch)
   - Fusion des modifications avec la copie locale (git merge)
 
-![Slide 8 Image](../assets/images/cours_git_images/slide_8.jpg)
+![Slide 8 Image](/img/cours_git_images/slide_8.jpg)
 
 # Mise en pratique
 
 - Pour les opérations Git :
   - Utilisation en ligne de commandes.
   - Utilisation du plugin intégré à Microsoft vs code.
-- Récupération du projet dans un dépôt local (git clone) : https://github.com/MathiasChoquet/SIGMA_901_12
+- Récupération du projet dans un dépôt local (git clone) : https://github.com/MathiasChoquet/ddame_l3pro_hugo_website.git
 
 - Périmètre : Pour cette introduction, nous n’allons pas évoqué les branches dans le but de ne pas trop complexifier l’apprentissage. Cet exemple travaille sur la branche principale (main) et va faire toutes ces opérations dessus. Par défaut, c’est la branche principale qui est utilisée pour les opérations Git (ceux qui connaissent ou qui veulent s’entrainer peuvent travailler dans des branches).
 
@@ -96,7 +95,7 @@ url="git"
   - Dans la fenêtre principale :
     - raccourcis clavier « Ctrl + shit + P » puis Taper « clone »
     - Sélectionner « « cloner à partir de github »
-    - Entrer l’URL (l’adresse) du dépôt pour une connexion https : https://github.com/MathiasChoquet/SIGMA_901_12 puis entrer votre user/password GitHub.
+    - Entrer l’URL (l’adresse) du dépôt pour une connexion https : https://github.com/MathiasChoquet/ddame_l3pro_hugo_website.git puis entrer votre user/password GitHub.
 - Pour configurer votre Git pour les futurs « commits » : Dans le terminal vscode, taper :
 
 ```bash
@@ -104,7 +103,7 @@ url="git"
   git config --global user.email VotreEmail@example.com
 ```
 
-NB : Il est possible (et plus sécurisé) d’utiliser un système de clé publique/privée basée sur le protocole SSH pour cloner son dépôt (tutoriel : ici)
+> NB : Il est possible (et plus sécurisé) d’utiliser un système de clé publique/privée basée sur le protocole SSH pour cloner son dépôt (tutoriel : ici)
 
 # Git : commit
 
@@ -113,8 +112,9 @@ NB : Il est possible (et plus sécurisé) d’utiliser un système de clé publi
   - Ecrire un message clair qui décrit votre commit (Attention à la langue employée). Si votre commit est rattaché à une carte de projet : ajouter #{n° carte} (ex: #3).
   - Clic droit sur les ‘…’ à droite du dépôt -> menu commit -> commit.
 
-![Slide 11 Image](../assets/images/cours_git_images/slide_11.jpg)
-NB : La commande git est : git commit –m « #3 Correction : cohérence avec le cours ».
+![Slide 11 Image](/img/cours_git_images/slide_11.jpg)
+
+> NB : La commande git est : git commit –m « #3 Correction : cohérence avec le cours ».
 
 # Git : pull (fetch & merge)
 
@@ -123,8 +123,9 @@ NB : La commande git est : git commit –m « #3 Correction : cohérence avec l
 - Récupération des données du serveur distant (fetch).
 - Tentative de fusion automatique des modifications (merge).
 
-![Slide 12 Image](../assets/images/cours_git_images/slide_12.jpg)
-NB : La commande git est : git pull ou get fetch et git merge.
+![Slide 12 Image](/img/cours_git_images/slide_12.jpg)
+
+> NB : La commande git est : git pull ou get fetch et git merge.
 
 # Git : pull (fetch & merge)
 
@@ -132,7 +133,7 @@ NB : La commande git est : git pull ou get fetch et git merge.
 - Le menu « Fusionner les changements » : indique les fichiers à fusionner. manuellement : cliquer sur chaque fichier et cliquer sur le bouton « Resolve in Merge Editor ».
 - Le menu « Changements indexés » indique les fichiers qui vont être fusionner automatiquement.
 
-![Slide 13 Image](../assets/images/cours_git_images/slide_13.jpg)
+![Slide 13 Image](/img/cours_git_images/slide_13.jpg)
 
 # Git : pull (fetch & merge)
 
@@ -140,7 +141,7 @@ NB : La commande git est : git pull ou get fetch et git merge.
   - Dans l’outil de fusion : Faire la fusion (Accepter à gauche: le dépôt distant ou à droite dépôt local) et cliquer sur le bouton « Complete Merge ».
   - Une fois la fusion effectuée il faut la « commiter » (laisser le commentaire prédéfinis) en appuyant sur validation.
 
-![Slide 14 Image](../assets/images/cours_git_images/slide_14.jpg)
+![Slide 14 Image](/img/cours_git_images/slide_14.jpg)
 
 # Git : push
 
@@ -156,8 +157,9 @@ NB : La commande git est : git pull ou get fetch et git merge.
   - Pas de tests après une fusion manuelle.
 - Petite modification de dernière minute qu’on pense sans impact.
 
-![Slide 15 Image](../assets/images/cours_git_images/slide_15.jpg)
-NB : La commande git est : git push
+![Slide 15 Image](/img/cours_git_images/slide_15.jpg)
+
+> NB : La commande git est : git push
 
 # Git : bonnes pratiques avant le commit
 
@@ -168,11 +170,12 @@ NB : La commande git est : git push
   - Les nouveaux fichiers avec la lettre ‘U’ pour Unfollowed.
   - Les fichiers supprimés avec la lettre ‘D’ pour Delete.
   - Les fichiers modifiés avec la lettre ‘M’ pour Modified.
-    ![Slide 16 Image](../assets/images/cours_git_images/slide_16.jpg)
-    NB : La commande git est : git push
+    ![Slide 16 Image](/img/cours_git_images/slide_16.jpg)
 
-NB 1 : Un outil de visualisation des branches est disponible depuis la version 1.92 de vscode sortie en aout 2024. https://code.visualstudio.com/updates/v1_92
-NB 2: La commande git pour ajouter un fichier est : git add « nom du fichier »
+> NB : La commande git est : git push
+
+> NB 1 : Un outil de visualisation des branches est disponible depuis la version 1.92 de vscode sortie en aout 2024. https://code.visualstudio.com/updates/v1_92
+> NB 2: La commande git pour ajouter un fichier est : git add « nom du fichier »
 
 # Git : Le fichier .gitignore
 
@@ -191,8 +194,9 @@ NB 2: La commande git pour ajouter un fichier est : git add « nom du fichier 
   - On « commit » sur sa branche locale.
   - On « push » pour créer cette branche sur le dépôt distant.
 
-![Slide 18 Image](../assets/images/cours_git_images/slide_18.jpg)
-NB : Les commandes git pour créer et se placer sur la branche sont : git branch <nom_de_la_branche>, git checkout <nom_de_la_branche>
+![Slide 18 Image](/img/cours_git_images/slide_18.jpg)
+
+> NB : Les commandes git pour créer et se placer sur la branche sont : git branch <nom_de_la_branche>, git checkout <nom_de_la_branche>
 
 - Il est parfois nécessaire de travailler en parallèle sur plusieurs branches (corrections sur certaines, évolutions sur d’autres... ). Pour cela, on peut vouloir se déplacer sur plusieurs branches depuis son dépôt local.
 
@@ -203,8 +207,9 @@ NB : Les commandes git pour créer et se placer sur la branche sont : git branch
     - Les « branches » sont déjà présentes sur le dépôt local à une certaine version (représenté par l’ID du dernier commit (exemple : f9859266))
     - Les branches distantes sont sur le dépôt distant : les « origin/\* »
 
-![Slide 19 Image](../assets/images/cours_git_images/slide_19.jpg)
-NB : La commande git pour se placer sur une branche est : git checkout <nom_de_la_branche>
+![Slide 19 Image](/img/cours_git_images/slide_19.jpg)
+
+> NB : La commande git pour se placer sur une branche est : git checkout <nom_de_la_branche>
 
 - Pour rapatrier les modifications faites dans une branche vers une autre branche (pour cet exemple, nous prendrons l’exemple d’un rapatriement de la branche « evol » vers la branche « main ») :
   - Se placer sur la branche « main » (la branche cible de la fusion) avec la fonction vscode « … -> basculer vers » (git checkout main).
@@ -220,8 +225,9 @@ NB : La commande git pour se placer sur une branche est : git checkout <nom_de_l
 
 - Rechercher et sélectionnez : Git: Push Tags.
 
-![Slide 21 Image](../assets/images/cours_git_images/slide_21.jpg)
-NB : Les commandes git : git tag <nom_du_tag>, git push origin <nom_du_tag>
+![Slide 21 Image](/img/cours_git_images/slide_21.jpg)
+
+> NB : Les commandes git : git tag <nom_du_tag>, git push origin <nom_du_tag>
 
 - Fonctionnement sur vscode : …-> Etiquettes -> Créer une etiquettes…
   - Saisie du nom du tag
