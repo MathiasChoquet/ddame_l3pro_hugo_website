@@ -88,3 +88,9 @@ site_logo = "img/UT2.png"
   name = "Installation des Environnements de Développement"
   url = "/envdev"
   weight = 12
+
+  [[menu.main]]
+  identifier = "journal2025"
+  name = "Journal de bord 2025"
+  url = "/journal2025"
+  weight = 12

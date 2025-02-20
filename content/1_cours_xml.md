@@ -149,17 +149,11 @@ Ce fichier gère la table des matières.
 
 ## 5. Bonnes pratiques XML
 
-1. **Valider le fichier XML** : Utilisez un validateur XML en ligne ou des outils comme `xmllint` pour vérifier la syntaxe.
+1. **Indenter correctement** : L'indentation facilite la lecture et la maintenance.
 
-   ```bash
-   xmllint --noout fichier.xml
-   ```
+2. **Utiliser des namespaces** : Les namespaces évitent les conflits entre différents schémas XML.
 
-2. **Indenter correctement** : L'indentation facilite la lecture et la maintenance.
-
-3. **Utiliser des namespaces** : Les namespaces évitent les conflits entre différents schémas XML.
-
-4. **Commentaires** : Ajoutez des commentaires pour expliquer le contenu.
+3. **Commentaires** : Ajoutez des commentaires pour expliquer le contenu.
 
    ```xml
    <!-- Ceci est un commentaire -->
