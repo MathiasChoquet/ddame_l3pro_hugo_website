@@ -8,6 +8,7 @@ background_color_class="bg-white"
 author = "mathias.choquet"
 favicon = ""
 site_logo = "img/UT2.png"
+______custom_css______ = ["css/style.css"]
 
 [menu]
 

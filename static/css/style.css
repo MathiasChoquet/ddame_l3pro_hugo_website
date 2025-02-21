@@ -1,0 +1,83 @@
+  /* Initialisation du compteur principal pour les titres */
+body {
+  counter-reset: h1counter 1;
+}
+
+/* Numérotation des H1 */
+h1 {
+  counter-reset: h2counter;
+  counter-increment: h1counter 1;
+}
+
+h1::before {
+  content: counter(h1counter) ". ";
+}
+
+/* Numérotation des H2 */
+h2 {
+  counter-reset: h3counter;
+  counter-increment: h2counter 1;
+}
+
+h2::before {
+  content: counter(h1counter) "." counter(h2counter) " ";
+}
+
+/* Numérotation des H3 */
+h3 {
+  counter-reset: h4counter;
+  counter-increment: h3counter 1;
+}
+
+h3::before {
+  content: counter(h1counter) "." counter(h2counter) "." counter(h3counter) " ";
+}
+
+/* Numérotation des H4 */
+h4 {
+  counter-reset: h5counter;
+  counter-increment: h4counter 1;
+}
+
+h4::before {
+  content: counter(h1counter) "." counter(h2counter) "." counter(h3counter) "." counter(h4counter) " ";
+}
+
+/* Numérotation des H5 */
+h5 {
+  counter-reset: h6counter;
+  counter-increment: h5counter 1;
+}
+
+h5::before {
+  content: counter(h1counter) "." counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) " ";
+}
+
+/* Numérotation des H6 */
+h6 {
+  counter-reset: h7counter;
+  counter-increment: h6counter 1;
+}
+
+h6::before {
+  content: counter(h1counter) "." counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) "." counter(h6counter) " ";
+}
+
+/* Numérotation des H7 */
+h7 {
+  counter-reset: h8counter;
+  counter-increment: h7counter 1;
+}
+
+h7::before {
+  content: counter(h1counter) "." counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) "." counter(h6counter) "." counter(h7counter) " ";
+}
+
+/* Numérotation des H8 */
+h8 {
+  counter-increment: h8counter 1;
+}
+
+h8::before {
+  content: counter(h1counter) "." counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) "." counter(h6counter) "." counter(h7counter) "." counter(h8counter) " ";
+}

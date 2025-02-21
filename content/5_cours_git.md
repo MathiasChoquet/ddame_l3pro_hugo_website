@@ -105,6 +105,42 @@ url="git"
 
 > NB : Il est possible (et plus sécurisé) d’utiliser un système de clé publique/privée basée sur le protocole SSH pour cloner son dépôt (tutoriel : ici)
 
+## Gestion des sous-modules Git
+
+Git permet d’inclure des référentiels externes sous forme de **sous-modules**. Cela est utile pour intégrer des dépendances ou des projets externes sans les mélanger au code principal.
+
+### Vérifier les sous-modules
+
+Après avoir cloné un projet, vérifiez la présence des sous-modules avec :
+
+```bash
+git submodule status
+```
+
+### Initialiser et récupérer les sous-modules
+
+Si le projet contient des `.gitmodules`, utilisez la commande suivante pour récupérer les fichiers correspondants :
+
+```bash
+git submodule update --init --recursive
+```
+
+Cette commande :
+
+- **`init`** : Initialise les sous-modules référencés.
+- **`update`** : Clone les sous-modules et place leurs fichiers.
+- **`--recursive`** : Applique ces actions à tous les sous-modules imbriqués.
+
+### Mettre à jour les sous-modules existants
+
+Si les sous-modules ont été mis à jour dans leur dépôt d’origine, mettez-les à jour dans votre projet local avec :
+
+```bash
+git submodule update --remote --merge
+```
+
+Cette commande récupère les dernières modifications et les fusionne avec votre projet principal.
+
 # Git : commit
 
 - Faire un commit (enregistrement dans le dépôt local) :

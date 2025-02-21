@@ -108,6 +108,8 @@ Bienvenue dans mon premier article écrit avec Hugo !
 
 Hugo utilise un système de templates puissant pour personnaliser l'apparence des pages.
 
+> NB Lien pour se former aux tutos Hugo : https://reintech.io/blog/control-structures-functions-go-tutorial
+
 ### Exemple de template pour une page d'article
 
 Créez un fichier `layouts/_default/single.html` :
