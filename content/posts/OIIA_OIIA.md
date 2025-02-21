@@ -17,7 +17,20 @@ Les crevettes, selon les espèces et leur habitat (eau douce, saumâtre ou marin
 
 Certaines crevettes, comme _Rimicaris exoculata_, vivent près des sources hydrothermales sous-marines, où la température et la pression sont extrêmes. Elles se reproduisent en déposant leurs larves dans des courants marins plus tempérés, augmentant ainsi leur taux de survie.
 
+
 Un grand homme a un jour dit : 
 > OIIA OIIA
 
 Retrouvez cette citation sur [cette vidéo](https://youtu.be/IxX_QHay02M?si=w6jHEe3ETnzieiFE).
+
+Tableau récapitulatif : 
+|Facteur|Adaptation|
+|-------|----------|
+|Type|Sexuée, parfois parthénogenèse.|
+|Fécondation|Externe, œufs portés par la femelle.|
+|Cycle|Suivi des marées, saisons, lune.|
+|Œufs|De centaines à milliers.|
+|Incubation|Quelques jours à semaines.|
+|Milieu|Migration vers zones favorables.|
+|Survie|Larves portées par courants.|
+|Adaptations|Tolérance extrême, migration.|

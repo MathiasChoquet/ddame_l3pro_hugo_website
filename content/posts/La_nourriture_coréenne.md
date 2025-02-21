@@ -1,0 +1,20 @@
++++
+date = '2025-02-21T11:03:56+01:00'
+title = 'La_nourriture_coréenne'
+author = "Jeanne"
++++
+
+# La nourriture coréenne
+
+C'est trop bon ! Et bien épicé !
+La nourriture coréenne est un véritable voyage à travers les saveurs, mais aussi les traditions du pays. C'est une cuisine saine lorsqu'elle est cuisinée maison, et très savoureuse.
+Les principaux ingrédients sont le riz ("bap" en coréen), la pâte épicée gochujang, le kimchi, les algues séchées, des légumes et des viandes. 
+Il y a aussi des alcools, qui sauront se marier parfaitement avec les saveurs. Il y a par exemple le soju, le makgeolli et le cheonju.
+
+# Le bulgogi
+
+! [Img_bulgogi] (https://www.justataste.com/wp-content/uploads/2019/03/beef-bulgogi-bowl-recipe.jpg)
+Plat traditionnel coréen, le bulbogi se déguste partout en Corée. Il s'agit d'un barbecue convivial.
+
+Pour plus d'infos :
+[La_cuisine_coréenne] (https://cahierdeseoul.com/cuisine-coreenne/)
