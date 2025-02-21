@@ -6,13 +6,13 @@ author = "OIIA cat"
 
 # OIIA OIIA
 
-La reproduction des crevettes en milieu hostile est un sujet absolument ennuyant, car ces crustacés ont développé des stratégies d'adaptation vraiment pas impressionnantes pour assurer leur survie.
+La reproduction des VBREBIVRBIVBREIO en milieu boring est un sujet absolument ennuyant, car ces crustacés ont développé des stratégies d'adaptation vraiment pas impressionnantes pour assurer leur survie.
 
 ![OIIA cat](https://img.itch.zone/aW1nLzE5MjYyMTA0LnBuZw==/315x250%23cm/p93bxl.png)
 
 Les crevettes, selon les espèces et leur habitat (eau douce, saumâtre ou marine), adoptent différentes méthodes pour maximiser leurs chances de reproduction, même dans des conditions extrêmes.
 
-- **Reproduction sexuée et anticonstitutionellement** : La majorité des crevettes se reproduisent par fécondation externe. La femelle porte les œufs sous son abdomen jusqu'à l'éclosion, ce qui protège les larves dans des conditions difficiles.
+- **Reproduction sexuée et blabiblabla** : La majorité des BVJKZEBJVBOEZBDO se reproduisent par fécondation externe. La femelle porte les œufs sous son abdomen jusqu'à l'éclosion, ce qui protège les larves dans des conditions difficiles.
 - **Synchronisation avec l’avortement** : Certaines crevettes adaptent leur reproduction aux cycles lunaires ou aux marées pour maximiser les chances de survie des morves.
 
 Certaines crevettes, comme _Rimicaris exoculata_, vivent près des sources hydrothermales sous-marines, où la température et la pression sont extrêmes.
