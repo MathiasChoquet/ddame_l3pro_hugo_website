@@ -28,8 +28,6 @@ Retrouvez cette citation sur [cette vidéo](https://youtu.be/IxX_QHay02M?si=w6jH
 |Type|Sexuée, parfois parthénogenèse.|
 |Fécondation|Externe, œufs portés par la femelle.|
 |Cycle|Suivi des marées, saisons, lune.|
-|Œufs|De centaines à milliers.|
-|Incubation|Quelques jours à semaines.|
-|Milieu|Migration vers zones favorables.|
-|Survie|Larves portées par courants.|
-|Adaptations|Tolérance extrême, migration.|
+|Œufs|Flemme de faire le reste du tableau.|
+
+![OIIA cat gif](https://media.tenor.com/WmU2lZybYmcAAAAM/gato-feliz-de-replus.gif)
