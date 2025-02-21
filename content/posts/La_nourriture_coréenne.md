@@ -13,8 +13,10 @@ Il y a aussi des alcools, qui sauront se marier parfaitement avec les saveurs. I
 
 # Le bulgogi
 
-! [Img_bulgogi] (https://www.justataste.com/wp-content/uploads/2019/03/beef-bulgogi-bowl-recipe.jpg)
-Plat traditionnel coréen, le bulbogi se déguste partout en Corée. Il s'agit d'un barbecue convivial.
+![Img_bulgogi](beef-bulgogi-bowl-recipe.jpg)
+Plat traditionnel coréen, le bulbogi se déguste partout en Corée. Il s'agit d'un barbecue convivial : réunis autour d'une table, chaque convive peut faire cuire lui-même sa viande.
+On utilise généralement de la viande de boeuf, parfois de porc, coupée en fines lamelles marinées que l'on vient faire griller sur un dispositif placé au centre de la table. Posée directement sur du charbon, ce dispositif circulaire vient se placer dans la table juste au-dessus des braises.
 
-Pour plus d'infos :
+
+Pour plus d'infos sur la nourriture coréenne :
 [La_cuisine_coréenne] (https://cahierdeseoul.com/cuisine-coreenne/)
