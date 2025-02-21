@@ -38,4 +38,4 @@ Les points forts :
 - Film
 - Il existe c'est déjà cool
 
-Ce qui fait la force de la trilogie Cornetto, au-delà de son humour et de ses scènes d’action impeccables, c’est son écriture intelligente et ses personnages attachants. Chaque film cache une critique sociale subtile sous son apparente légèreté, et le style d’Edgar Wright, avec son montage nerveux et ses visuels soignés, en fait une œuvre unique dans le paysage du cinéma moderne. gg
+Ce qui fait la force de la trilogie Cornetto, au-delà de son humour et de ses scènes d’action impeccables, c’est son écriture intelligente et ses personnages attachants. Chaque film cache une critique sociale subtile sous son apparente légèreté, et le style d’Edgar Wright, avec son montage nerveux et ses visuels soignés, en fait une œuvre unique dans le paysage du cinéma moderne. 
