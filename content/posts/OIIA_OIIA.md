@@ -14,3 +14,5 @@ Les crevettes, selon les espèces et leur habitat (eau douce, saumâtre ou marin
 - **Synchronisation avec l’environnement** : Certaines crevettes adaptent leur reproduction aux cycles lunaires ou aux marées pour maximiser les chances de survie des larves.
 
 Certaines crevettes, comme _Rimicaris exoculata_, vivent près des sources hydrothermales sous-marines, où la température et la pression sont extrêmes. Elles se reproduisent en déposant leurs larves dans des courants marins plus tempérés, augmentant ainsi leur taux de survie.
+
+![OIIA cat](https://img.itch.zone/aW1nLzE5MjYyMTA0LnBuZw==/315x250%23cm/p93bxl.png)
