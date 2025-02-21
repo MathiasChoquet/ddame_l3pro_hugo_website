@@ -10,7 +10,7 @@ Le **pied** est une structure fascinante et complexe, jouant un rôle essentiel 
 
 ## Ton type de pied selon tes orteils
 
-[Typologie pieds](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linternaute.com%2Factualite%2Fmagazine%2F3223789-article%2F&psig=AOvVaw1Bb9fepskweOAeeKuS2R3s&ust=1740218344092000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJihwdPA1IsDFQAAAAAdAAAAABAE)
+![Typologie pieds](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linternaute.com%2Factualite%2Fmagazine%2F3223789-article%2F&psig=AOvVaw1Bb9fepskweOAeeKuS2R3s&ust=1740218344092000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJihwdPA1IsDFQAAAAAdAAAAABAE)
 
 - **Pied égyptien** : Le gros orteil est le plus long, et les autres descendent progressivement en taille. C’est la forme la plus courante.
 - **Pied grec** : Le deuxième orteil est plus long que le gros orteil et les autres suivent en décroissant. On dit que c’est le pied des athlètes (et aussi des statues grecques, d’où le nom).
