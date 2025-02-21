@@ -1,17 +1,16 @@
 +++
-date = '2024-12-21T11:03:56+01:00'
+date = '2025-02-21T11:03:56+01:00'
 title = 'Bravo bravo les jeux vidéos'
 author = "Loan Ung"
 +++
 
-# Bravo les jeux-vidéos
+# Entre le livre et les jeux vidéos : une symbiose ?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris accumsan, augue eget pharetra mollis, metus urna posuere neque, vitae interdum nisl turpis vitae felis. Suspendisse blandit placerat tortor non tincidunt. Maecenas ultricies laoreet convallis. Curabitur at sagittis nibh. Fusce leo magna, dapibus eu consectetur at, suscipit vitae felis. Duis consequat est non mattis suscipit. Etiam sapien sapien, finibus ac leo vel, malesuada venenatis sapien. Nunc pretium vitae odio non convallis. Quisque id augue scelerisque dui vehicula iaculis. Suspendisse sed sem id turpis ultrices rutrum. Nullam mollis posuere tellus nec condimentum. Aenean porttitor lacus ut diam convallis, nec ultricies dui eleifend. Maecenas tempor erat lacus, vel viverra libero sollicitudin nec. Maecenas sed massa convallis purus fermentum faucibus. Cras massa nisi, cursus a pulvinar in, fermentum id lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+![Une image sympatoche](https://www.ecranlarge.com/content/uploads/2024/04/detroit-become-human-quantic-dream-beyond-two-souls-heavy-rain-detroit-become-human-jeux-classement-meilleur-pire-1507230-1200x561.png)
 
-Pellentesque dictum sodales risus, et dapibus quam sagittis et. Fusce accumsan felis vel sem dapibus ornare. Maecenas bibendum volutpat eros non ullamcorper. Duis vel massa auctor, pellentesque est vitae, scelerisque est. Sed dignissim, velit eu faucibus aliquet, justo augue pellentesque velit, vitae ornare neque augue sed lectus. Aliquam pellentesque mattis efficitur. Aliquam convallis justo ut justo ultrices mattis. Donec feugiat, libero ac laoreet eleifend, lorem ligula fringilla libero, sed consequat risus lacus a justo. Curabitur non sem justo. Proin euismod feugiat dolor, at mollis tellus varius ut. Fusce ullamcorper tempor libero, et faucibus lorem vulputate et.
+**Un art interactif** 
 
-Ut pretium dapibus sapien, non ornare orci molestie id. Vestibulum sit amet quam in diam interdum venenatis. Duis quis odio ac justo consectetur commodo lobortis et enim. Aenean eget neque vitae nisi fermentum imperdiet et id dolor. Nam id quam nec nisi porta blandit. In hac habitasse platea dictumst. Maecenas gravida diam in nisl luctus, in fringilla ipsum imperdiet. Vestibulum molestie rutrum est at dictum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque dapibus orci at tincidunt eleifend.
+Si les jeux vidéos sont souvent discrédités et relégués à un rang d’art “déviant” (et encore, la qualification d’art est souvent débattue), leur interactivité reste pour autant inégalée par le reste des médiums à but narratifs. Là réside le principal avantage et intérêt du jeu vidéo : il permet d'immiscer le joueur dans un univers défini en le projetant sur le devant de la scène, à l’opposé du théâtre ou du cinéma où le spectateur est témoin, donc passif.
 
-Morbi cursus est non mattis semper. Donec sed enim imperdiet, aliquam elit non, egestas libero. Quisque velit quam, lacinia ac tempor sed, porttitor a turpis. Sed eu faucibus nibh. Cras a suscipit nisl. In efficitur pulvinar sem vel auctor. Integer felis nunc, aliquet et egestas ac, dignissim vitae velit. Fusce in odio lacinia, hendrerit massa ut, tempus sem. Morbi mattis eu lorem efficitur ultrices.
+Cependant, l’interactivité et le libre arbitre donné par le médium se font parfois au détriment de l’histoire ; pour une même scène, faite sur deux médias différents, la réaction et l’effet sera différent. L’exemple le plus parlant est la comparaison entre jeu et télévision de cette scène dramatique de The Last of Us  où (Spoiler alert) un père et sa fille tentent de fuir une ville en proie à une apocalypse zombie. (vidéo ci-dessous)
 
-Aliquam rutrum aliquet orci in tristique. Duis id mattis diam, at luctus sem. In dapibus elit sed pretium pretium. Donec et molestie erat. Nulla arcu purus, pulvinar et ornare ut, blandit congue sem. Donec imperdiet erat libero, in tempus magna efficitur sit amet. Aliquam erat volutpat.
