@@ -9,7 +9,7 @@ author = "Léo BG"
 *Si l'expression "ne jamais s'ennuyer" devait être incarnée par quelqu'un, ce serait sans aucun doute Léo. Son existence semble dirigée par une force cosmique qui a décidé de mélanger sitcom, tragédie grecque et théâtre de l'absurde dans une expérience sociologique grandeur nature.*
 
 ## Un matin comme les autres... ou pas
-Léo ouvre un œil. Enfin, elle essaie. Mais son oreiller est devenu une entité consciente qui s’accroche à elle avec la force d’un poulpe en manque d’affection. Elle tente de se lever et se prend les pieds dans sa couette, s’écrasant sur son chat. Celui-ci, excédé, active un plan qu’il semble avoir prémédité depuis des mois et déclenche un piège à souris miniature qui libère une avalanche de **chaussettes sales**.
+Léo ouvre un œil. Enfin, elle essaie. Mais son oreiller est devenu une entité consciente qui s’accroche à elle avec la force d’un poulpe en manque d’affection. Elle tente de se lever et se prend les pieds dans sa couette, s’écrasant sur son chat. Celui-ci, excédé, active un plan qu’il semble avoir prémédité depuis des mois et déclenche un piège à souris miniature qui libère une avalanche de **chaussettes sales**!.
 
 Elle regarde son réveil : il affiche "Bientôt peut-être" à la place de l’heure. Génial. En panique, elle enfile un pull, réalise qu’elle l’a mis à l’envers ET sur sa tête, puis court vers la porte, qui décide d’exiger un mot de passe. Elle tente "Ouvre-toi". Rien. "Sésame". **Toujours rien**. "Mange-moi une pizza". Elle s’ouvre. Personne ne comprend pourquoi, pas même la porte.
 
@@ -44,7 +44,7 @@ Puis, en voulant envoyer un e-mail professionnel important, elle appuie sur un r
 ![femme_maladroite](https://c7.alamy.com/compfr/a04fn3/jeune-femme-pleurer-de-douleur-apres-une-chute-d-un-bain-a04fn3.jpg)
 
 ## Une vie sentimentale... mouvementée
-Le soir venu, Léo tente un rendez-vous. Cette fois, elle a vérifié l’adresse trois fois. Mais elle arrive au restaurant pour découvrir que son date est en fait une intelligence artificielle installée sur une tablette posée sur la table. Trop polie pour partir, elle entame une conversation. "Alors, tu fais quoi dans la vie ?" demande-t-elle, tandis que la tablette affiche "Processus de réflexion en cours… Veuillez patienter." Après dix minutes d’attente, l’écran clignote : ***"Erreur 404, séduction non trouvée."***
+Le soir venu, Léo tente un rendez-vous. Cette fois, elle a vérifié l’adresse trois fois. Mais elle arrive au restaurant pour moi. "Alors, tu fais quoi dans la vie ?" demande-t-elle, tandis que la tablette affiche "Processus de réflexion en cours… Veuillez patienter." Après dix minutes d’attente, l’écran clignote : ***"Erreur 404, séduction non trouvée."***
 
 Elle tente de partir discrètement, mais un serveur surgit et lui tend un homard vivant. "C’est votre commande !" dit-il avec entrain. "Je… Je n’ai pas commandé ça." "Si si, regardez !" Il lui montre son téléphone, où une notification indique "Commande validée : 1 homard + 3 kg de mayonnaise". Léo ne sait pas comment, ni pourquoi, mais elle sent qu’il vaut mieux ne pas poser de questions.
 
