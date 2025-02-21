@@ -17,7 +17,7 @@ Les crevettes, selon les espèces et leur habitat (eau douce, saumâtre ou marin
 
 Certaines crevettes, comme _Rimicaris exoculata_, vivent près des sources hydrothermales sous-marines, où la température et la pression sont extrêmes. Elles se reproduisent en déposant leurs larves dans des courants marins plus tempérés, augmentant ainsi leur taux de survie.
 
-<font color="ea4444">Les crevettes sont oranges et non rouges.</font>
+<p style="color:red">Les crevettes sont oranges et non rouges.</p>
 
 Un grand homme a un jour dit : 
 > OIIA OIIA
