@@ -23,10 +23,8 @@ Un grand homme a un jour dit :
 
 Retrouvez cette citation sur [cette vidéo](https://youtu.be/IxX_QHay02M?si=w6jHEe3ETnzieiFE).
 
-|Tableau récapitulatif|
-|-------|----------|
 |Facteur|Adaptation|
-|-------|----------|
+|-------------|-------------|
 |Type|Sexuée, parfois parthénogenèse.|
 |Fécondation|Externe, œufs portés par la femelle.|
 |Cycle|Suivi des marées, saisons, lune.|
