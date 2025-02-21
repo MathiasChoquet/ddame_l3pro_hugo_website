@@ -40,11 +40,11 @@ Les points forts :
 Enfin, *The World’s End* revisite la science-fiction et le film d’invasion extraterrestre à travers une réunion de vieux amis qui tourne mal. Ce dernier volet est plus sombre et introspectif, abordant des thèmes comme le temps qui passe, l’alcoolisme et la nostalgie, tout en offrant des combats délirants et des répliques cultes.
 
 Les points forts :
-- Alcool
-- Film
-- Il existe c'est déjà cool
+- L'amour
+- Aymeric existe
+- et je sais pas le troisèeme point fort 
 
-Ce qui fait la force de la trilogie Cornetto, au-delà de son humour et de ses scènes d’action impeccables, c’est son écriture intelligente et ses personnages attachants. Chaque film cache une critique sociale subtile sous son apparente légèreté, et le style d’Edgar Wright, avec son montage nerveux et ses visuels soignés, en fait une œuvre unique dans le paysage du cinéma moderne. 
+loan tu es beau mais on aime pas ça 
 
 # La note du jury
 
