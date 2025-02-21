@@ -6,7 +6,7 @@ author = "OIIA cat"
 
 # OIIA OIIA
 
-La reproduction des crevettes en milieu hostile est un sujet fascinant, car ces crustacés ont développé des stratégies d'adaptation impressionnantes pour assurer leur survie.
+La reproduction des crevettes en milieu hostile est un sujet absolument ennuyant, car ces crustacés ont développé des stratégies d'adaptation vraiment pas impressionnantes pour assurer leur survie.
 
 ![OIIA cat](https://img.itch.zone/aW1nLzE5MjYyMTA0LnBuZw==/315x250%23cm/p93bxl.png)
 
