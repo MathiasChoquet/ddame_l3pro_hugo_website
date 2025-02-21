@@ -15,4 +15,4 @@ Si les jeux vidéos sont souvent discrédités et relégués à un rang d’art 
 Cependant, l’interactivité et le libre arbitre donné par le médium se font parfois au détriment de l’histoire ; pour une même scène, faite sur deux médias différents, la réaction et l’effet sera différent. L’exemple le plus parlant est la comparaison entre jeu et télévision de cette scène dramatique de The Last of Us  où (Spoiler alert) un père et sa fille tentent de fuir une ville en proie à une apocalypse zombie. 
 
 On kiffe, j'ai fait un copier/coller du taff en écrire pour le web
-
+Zzzz
