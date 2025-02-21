@@ -1,6 +1,6 @@
 +++
 date = '2025-02-21T11:03:56+01:00'
-title = 'La_nourriture_coréenne'
+title = 'La nourriture coréenne'
 author = "Jeanne"
 +++
 
@@ -11,7 +11,7 @@ La nourriture coréenne est un véritable voyage à travers les saveurs, mais au
 Les principaux ingrédients sont le riz ("bap" en coréen), la pâte épicée gochujang, le kimchi, les algues séchées, des légumes et des viandes. 
 Il y a aussi des alcools, qui sauront se marier parfaitement avec les saveurs. Il y a par exemple le soju, le makgeolli et le cheonju.
 
-# Le bulgogi
+## Le bulgogi
 
 Plat traditionnel coréen, le bulbogi se déguste partout en Corée. Il s'agit d'un barbecue convivial : réunis autour d'une table, chaque convive peut faire cuire lui-même sa viande.
 On utilise généralement de la viande de boeuf, parfois de porc, coupée en fines lamelles marinées que l'on vient faire griller sur un dispositif placé au centre de la table. Posée directement sur du charbon, ce dispositif circulaire vient se placer dans la table juste au-dessus des braises.
