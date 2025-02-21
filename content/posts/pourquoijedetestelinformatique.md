@@ -8,3 +8,4 @@ author = "Pourquoijedetestelinformatique"
 
 C'est pas vrai j'adore ça !!
 C'est mon métier !!!
+Git c'est compliqué
