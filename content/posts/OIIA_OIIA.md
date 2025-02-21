@@ -1,5 +1,5 @@
 +++
-date = '2024-12-21T11:03:56+01:00'
+date = '2025-02-21T11:03:56+01:00'
 title = 'Max de fun'
 author = "OIIA cat"
 +++

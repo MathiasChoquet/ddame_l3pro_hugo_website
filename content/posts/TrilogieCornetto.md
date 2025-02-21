@@ -5,7 +5,7 @@ author = "Loan Ung"
 +++
 La trilogie Cornetto, réalisée par Edgar Wright et écrite en collaboration avec Simon Pegg, est une série de trois films cultes qui mêlent habilement comédie, action et satire. Composée de Shaun of the Dead (2004), Hot Fuzz (2007) et The World’s End (2013), elle met en vedette Simon Pegg et Nick Frost dans des histoires distinctes, mais reliées par des thèmes communs et un humour unique. Le surnom de "trilogie Cornetto" vient d’un clin d'œil récurrent aux glaces Cornetto, chaque film mettant en avant une saveur différente correspondant à son genre.
 
-## Shaun of the Dead
+## *Shaun of the Dead (2004)*
 
 ![SotD photo](https://medias.spotern.com/spots/w640/11/11835-1532336916.jpg)
 
@@ -18,7 +18,7 @@ Les points forts :
 - Amusant
 - Délirant même
 
-## Hot Fuzz
+## *Hot Fuzz (2007)*
 
 ![HF photo](https://lesrefracteurs.fr/wp-content/uploads/2021/12/Hot-Fuzz-illu-3-1024x576.jpg)
 
@@ -31,7 +31,7 @@ Les points forts :
 - Mémorable
 - Bravo
 
-## The World's End
+## *The World's End (2013)*
 
 ![TWE](https://medias.spotern.com/spots/w640/12/12891-1532336916.jpg)
 
