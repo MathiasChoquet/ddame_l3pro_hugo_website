@@ -23,7 +23,8 @@ Un grand homme a un jour dit :
 
 Retrouvez cette citation sur [cette vidéo](https://youtu.be/IxX_QHay02M?si=w6jHEe3ETnzieiFE).
 
-Tableau récapitulatif : 
+|Tableau récapitulatif|
+|-------|----------|
 |Facteur|Adaptation|
 |-------|----------|
 |Type|Sexuée, parfois parthénogenèse.|
