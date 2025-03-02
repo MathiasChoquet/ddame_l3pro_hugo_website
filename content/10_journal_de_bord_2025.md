@@ -81,5 +81,17 @@ Les modèles de boites :
 - Inscription des étudiants avec une adresse personnelle à github.
 - Envoi du login ou de l'email github sur mon adresse universitaire
 - Cours sur git : https://mathiaschoquet.github.io/ddame_l3pro_hugo_website/git/
-- Inscription au dépôt : https://github.com/MathiasChoquet/ddame_l3pro_hugo_website.git
+- Ajouter les étudiants avec leurs email au dépot
+- Inscription au dépôt : https://github.com/MathiasChoquet/ ddame_l3pro_hugo_website.git
 - Modification du site ddame_l3pro_hugo avec création de posts (/content/posts) : afin de se familiariser avec git
+
+> **💡 Avis :**  
+> Installation laborieuse mais satisfaisant
+> Compliqué mais une étudiante a adoré
+> Mieux préparer l'exemple car travailler à 11 en simultané a été ompliqué pour les conflits.
+
+# 3eme cours
+
+- Amélioration des pages
+  - Installation des logiciels mieux séparé entre mac et windows
+  - Continuer a découvrir markdown à travers les posts de chacun.
