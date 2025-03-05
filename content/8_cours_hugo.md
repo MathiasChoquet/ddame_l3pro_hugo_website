@@ -189,14 +189,16 @@ Hugo propose une large bibliothèque de thèmes disponibles sur [themes.gohugo.i
 
 theme = "mon-theme"
 
-```
-
----
-
 ## 8. Ressources supplémentaires
 
+### Les tutos
+
 - [Documentation officielle Hugo](https://gohugo.io/documentation/)
-- [Thèmes Hugo](https://themes.gohugo.io/)
+- [Tutoriel bien 1](https://bout2code.fr/tutos/creer-un-site-avec-hugo/)
+- [Tutoriel bien 2](https://kinsta.com/fr/blog/hugo-site-statique/)
 - [Tutoriel rapide Hugo](https://www.w3schools.com/whatis/whatis_hugo.asp)
 
-```
+### Les thèmes
+
+- [Thèmes officielles Hugo](https://themes.gohugo.io/)
+- [Pré-sélection de thèmes](https://cloudcannon.com/blog/fifty-of-the-most-popular-hugo-themes/)
