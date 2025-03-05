@@ -12,7 +12,7 @@ La reproduction des crevettes et les homards en milieu hostile est un sujet abso
 
 Les crevettes, selon les espèces et leur habitat (eau douce, saumâtre ou marine), adoptent différentes méthodes pour maximiser leurs chances de reproduction, même dans des conditions extrêmes.
 
-- **Reproduction sexuée et anticonstitutionellement et oui** : La majorité des crevettes se reproduisent par fécondation externe. La femelle porte les œufs sous son abdomen jusqu'à l'éclosion, ce qui protège les larves dans des conditions difficiles.
+- **Reproduction sexuée et anticonstitutionellement et NON** : La majorité des crevettes se reproduisent par fécondation externe. La femelle porte les œufs sous son abdomen jusqu'à l'éclosion, ce qui protège les larves dans des conditions difficiles.
 - **Reproduction sexuée et blabiblabla** : La majorité des BVJKZEBJVBOEZBDO se reproduisent par fécondation externe. La femelle porte les œufs sous son abdomen jusqu'à l'éclosion, ce qui protège les larves dans des conditions difficiles.
 - **Synchronisation avec l’avortement** : Certaines crevettes adaptent leur reproduction aux cycles lunaires ou aux marées pour maximiser les chances de survie des morves.
 
