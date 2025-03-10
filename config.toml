@@ -91,6 +91,12 @@ ______custom_css______ = ["css/style.css"]
   weight = 12
 
   [[menu.main]]
+  identifier = "hugogithubpages"
+  name = "Hugo sur GitHub Pages"
+  url = "/hugogithubpages"
+  weight = 12
+
+  [[menu.main]]
   identifier = "journal2025"
   name = "Journal de bord 2025"
   url = "/journal2025"

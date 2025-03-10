@@ -95,3 +95,14 @@ Les modèles de boites :
 - Amélioration des pages
   - Installation des logiciels mieux séparé entre mac et windows
   - Continuer a découvrir markdown à travers les posts de chacun.
+
+# 3eme cours
+
+## Hugo
+
+Présentation de HUGO. Chaque étudiant a choisi un theme HUGO dans ( le site [Pré-sélection de thèmes](https://cloudcannon.com/blog/fifty-of-the-most-popular-hugo-themes/)
+)
+Les thèmes choisis sont :
+
+- https://github.com/kakawait/hugo-tranquilpeak-theme
+- TODO

@@ -69,14 +69,8 @@ Hugo est écrit en **Go (Golang)**, un langage de programmation développé par 
 
 ### Sur Windows
 
-1. **Téléchargez l’archive Hugo** depuis le site officiel : [Hugo Releases](https://github.com/gohugoio/hugo/releases)
-2. **Extrayez les fichiers** et ajoutez `hugo.exe` au `PATH`.
-   - Copiez `hugo.exe` dans `C:\Program Files\Hugo\`
-   - Ajoutez `C:\Program Files\Hugo\` au `PATH` via les **Variables d’environnement**.
-3. **Vérifiez l’installation** en exécutant :
-   ```bash
-   hugo version
-   ```
+1. Installer chocolatey : [Installation choco](https://chocolatey.org/install)
+2. Installer de hugo avec choco : [Installation hugo](https://gohugo.io/installation/windows/#package-managers)
 
 ### Liens pour autres systèmes :
 
