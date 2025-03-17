@@ -107,4 +107,11 @@ Les thèmes choisis sont :
 - https://themes.gohugo.io/themes/anatole/
 - https://github.com/eddiewebb/hugo-resume
 - https://themes.gohugo.io/themes/gohugo-theme-ananke/
-- 
+
+ILs ont fait des modifications dans leur sites.
+
+## Demandes
+
+- Insérer une vidéo dans un site et un site Hugo avec youtube
+
+{{< youtube 920PckOijrI >}}
