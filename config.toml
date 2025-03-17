@@ -1,4 +1,4 @@
-baseURL = 'https://mathiaschoquet.github.io'
+baseURL = 'https://mathiaschoquet.github.io/ddame_l3pro_hugo_website/'
 languageCode = 'en-us'
 title = 'DDAMEE HTML HUGO'
 theme = 'ananke'
