@@ -5,7 +5,7 @@ url="git"
 
 # Introduction à
 
-![Slide 1 Image](/img/cours_git_images/slide_1.jpg)
+![Slide 1 Image](/images/cours_git_images/slide_1.jpg)
 
 # Problématiques
 
@@ -78,7 +78,7 @@ url="git"
   - Récupération propre (git fetch)
   - Fusion des modifications avec la copie locale (git merge)
 
-![Slide 8 Image](/img/cours_git_images/slide_8.jpg)
+![Slide 8 Image](/images/cours_git_images/slide_8.jpg)
 
 # Mise en pratique
 
@@ -148,7 +148,7 @@ Cette commande récupère les dernières modifications et les fusionne avec votr
   - Ecrire un message clair qui décrit votre commit (Attention à la langue employée). Si votre commit est rattaché à une carte de projet : ajouter #{n° carte} (ex: #3).
   - Clic droit sur les ‘…’ à droite du dépôt -> menu commit -> commit.
 
-![Slide 11 Image](/img/cours_git_images/slide_11.jpg)
+![Slide 11 Image](/images/slide_11.jpg)
 
 > NB : La commande git est : git commit –m « #3 Correction : cohérence avec le cours ».
 
@@ -159,7 +159,7 @@ Cette commande récupère les dernières modifications et les fusionne avec votr
 - Récupération des données du serveur distant (fetch).
 - Tentative de fusion automatique des modifications (merge).
 
-![Slide 12 Image](/img/cours_git_images/slide_12.jpg)
+![Slide 12 Image](/images/cours_git_images/slide_12.jpg)
 
 > NB : La commande git est : git pull ou get fetch et git merge.
 
@@ -169,7 +169,7 @@ Cette commande récupère les dernières modifications et les fusionne avec votr
 - Le menu « Fusionner les changements » : indique les fichiers à fusionner. manuellement : cliquer sur chaque fichier et cliquer sur le bouton « Resolve in Merge Editor ».
 - Le menu « Changements indexés » indique les fichiers qui vont être fusionner automatiquement.
 
-![Slide 13 Image](/img/cours_git_images/slide_13.jpg)
+![Slide 13 Image](/images/cours_git_images/slide_13.jpg)
 
 # Git : pull (fetch & merge)
 
@@ -177,7 +177,7 @@ Cette commande récupère les dernières modifications et les fusionne avec votr
   - Dans l’outil de fusion : Faire la fusion (Accepter à gauche: le dépôt distant ou à droite dépôt local) et cliquer sur le bouton « Complete Merge ».
   - Une fois la fusion effectuée il faut la « commiter » (laisser le commentaire prédéfinis) en appuyant sur validation.
 
-![Slide 14 Image](/img/cours_git_images/slide_14.jpg)
+![Slide 14 Image](/images/cours_git_images/slide_14.jpg)
 
 # Git : push
 
@@ -193,7 +193,7 @@ Cette commande récupère les dernières modifications et les fusionne avec votr
   - Pas de tests après une fusion manuelle.
 - Petite modification de dernière minute qu’on pense sans impact.
 
-![Slide 15 Image](/img/cours_git_images/slide_15.jpg)
+![Slide 15 Image](/images/cours_git_images/slide_15.jpg)
 
 > NB : La commande git est : git push
 
@@ -206,7 +206,7 @@ Cette commande récupère les dernières modifications et les fusionne avec votr
   - Les nouveaux fichiers avec la lettre ‘U’ pour Unfollowed.
   - Les fichiers supprimés avec la lettre ‘D’ pour Delete.
   - Les fichiers modifiés avec la lettre ‘M’ pour Modified.
-    ![Slide 16 Image](/img/cours_git_images/slide_16.jpg)
+    ![Slide 16 Image](/images/cours_git_images/slide_16.jpg)
 
 > NB : La commande git est : git push
 
@@ -230,7 +230,7 @@ Cette commande récupère les dernières modifications et les fusionne avec votr
   - On « commit » sur sa branche locale.
   - On « push » pour créer cette branche sur le dépôt distant.
 
-![Slide 18 Image](/img/cours_git_images/slide_18.jpg)
+![Slide 18 Image](/images/cours_git_images/slide_18.jpg)
 
 > NB : Les commandes git pour créer et se placer sur la branche sont : git branch <nom_de_la_branche>, git checkout <nom_de_la_branche>
 
@@ -243,7 +243,7 @@ Cette commande récupère les dernières modifications et les fusionne avec votr
     - Les « branches » sont déjà présentes sur le dépôt local à une certaine version (représenté par l’ID du dernier commit (exemple : f9859266))
     - Les branches distantes sont sur le dépôt distant : les « origin/\* »
 
-![Slide 19 Image](/img/cours_git_images/slide_19.jpg)
+![Slide 19 Image](/images/cours_git_images/slide_19.jpg)
 
 > NB : La commande git pour se placer sur une branche est : git checkout <nom_de_la_branche>
 
@@ -261,7 +261,7 @@ Cette commande récupère les dernières modifications et les fusionne avec votr
 
 - Rechercher et sélectionnez : Git: Push Tags.
 
-![Slide 21 Image](/img/cours_git_images/slide_21.jpg)
+![Slide 21 Image](/images/cours_git_images/slide_21.jpg)
 
 > NB : Les commandes git : git tag <nom_du_tag>, git push origin <nom_du_tag>
 

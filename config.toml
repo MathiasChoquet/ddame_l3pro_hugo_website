@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mathiaschoquet.github.io'
 languageCode = 'en-us'
 title = 'DDAMEE HTML HUGO'
 theme = 'ananke'
@@ -7,7 +7,7 @@ theme = 'ananke'
 background_color_class="bg-white"
 author = "mathias.choquet"
 favicon = ""
-site_logo = "img/UT2.png"
+site_logo = "images/UT2.png"
 ______custom_css______ = ["css/style.css"]
 
 [menu]
