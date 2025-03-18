@@ -1,66 +1,74 @@
-name: Deploy Hugo Site to GitHub Pages
+# Sample workflow for building and deploying a Hugo site to GitHub Pages
+name: Deploy Hugo site to Pages
 
 on:
+  # Runs on pushes targeting the default branch
   push:
-    branches:
-      - main  # Trigger the workflow when code is pushed to the main branch
+    branches: ["main"]
 
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read  # Grants read access to repository contents
-  pages: write    # Allows writing to GitHub Pages
-  id-token: write # Required for OIDC authentication
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+# Default to bash
+defaults:
+  run:
+    shell: bash
 
 jobs:
+  # Build job
   build:
-    runs-on: ubuntu-latest  # Use the latest Ubuntu runner
-
+    runs-on: ubuntu-latest # Use the latest Ubuntu runner
     env:
-      HUGO_VERSION: 0.144.2  # Define the Hugo version to install
-
+      HUGO_VERSION: 0.128.0 # Define the Hugo version to install
     steps:
+      # Download and install the specified Hugo version
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
-        # Download and install the specified Hugo version
-
-      - name: Checkout repository
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+      - name: Install Dart Sass
+        run: sudo snap install dart-sass
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive  # Ensure submodules are checked out
-          fetch-depth: 0  # Fetch all history for proper site generation
-
-      - name: Configure GitHub Pages
+          submodules: recursive # Ensure submodules are checked out
+      - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v5
-        # Setup GitHub Pages configuration for deployment
-
-      - name: Build Hugo site
+        uses: actions/configure-pages@v5 # Setup GitHub Pages configuration for deployment
+      - name: Install Node.js dependencies # install npm dependencies if needed
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Build with Hugo
         env:
-          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache  # Use a temporary cache directory
-          HUGO_ENVIRONMENT: production  # Set the environment to production
-          TZ: America/Los_Angeles  # Define the time zone
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache # use a temporary cache
+          HUGO_ENVIRONMENT: production # build with the hugo command
         run: |
           hugo \
-            --gc \  # Run garbage collection to clean up unused files
-            --minify \  # Minify the final output for better performance
+            --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-        # Generate the static site using Hugo
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public  # Upload the generated site for deployment
-        # Store the generated files for later use in the deploy step
+          path: ./public # Upload the generated site for deployment (store it to deploy step)
 
+  # Deployment job
   deploy:
     environment:
-      name: github-pages  # Define the GitHub Pages environment
-      url: ${{ steps.deployment.outputs.page_url }}  # Set the deployment URL
-
-    runs-on: ubuntu-latest  # Use the latest Ubuntu runner
-    needs: build  # Ensure build completes before deploying
-
+      name: github-pages # Define the GitHub Pages environment
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest # Use the latest Ubuntu runner
+    needs: build # Ensure build completes before deploying
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

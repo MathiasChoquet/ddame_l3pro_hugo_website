@@ -107,6 +107,7 @@ Les thèmes choisis sont :
 - https://themes.gohugo.io/themes/anatole/
 - https://github.com/eddiewebb/hugo-resume
 - https://themes.gohugo.io/themes/gohugo-theme-ananke/
+- https://github.com/g1eny0ung/hugo-theme-dream
 
 ILs ont fait des modifications dans leur sites.
 
