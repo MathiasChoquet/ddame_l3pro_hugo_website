@@ -109,10 +109,23 @@ Les thèmes choisis sont :
 - https://themes.gohugo.io/themes/gohugo-theme-ananke/
 - https://github.com/g1eny0ung/hugo-theme-dream
 
-ILs ont fait des modifications dans leur sites.
+# 4 eme cours
+
+- Mise en place d'une méthode de travail pour la récupération des templates
+- Conseils aider au choix d'un template
+- Evolutions des sites en fonctions des templates choisis par chacun.
 
 ## Demandes
 
 - Insérer une vidéo dans un site et un site Hugo avec youtube
 
 {{< youtube 920PckOijrI >}}
+
+# 5 eme cours
+
+- Evolutions des sites en fonctions des templates choisis par chacun.
+- Mise en ligne des sites avec github pages.
+
+## Demandes
+
+- TODO
