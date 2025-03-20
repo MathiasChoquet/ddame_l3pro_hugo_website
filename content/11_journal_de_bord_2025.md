@@ -149,4 +149,14 @@ Les thèmes choisis sont :
 
 # **RET**our d'**EX**périence
 
-- TODO
+- XML/HTML/CSS =>
+  - XML : RAS
+  - ON peut sauter les exos sur HTML/CSS (déjà vu un peu avant)
+- Git => RAS
+- Installation golang/hugo (Mac et Windows) => Laborieux : Les retex ont été ajoutés au support
+- Hugo :
+  - Expériences différentes de part le diversité des thèmes
+  - Peut être proposer plus de petits sites pour expérimenter plusieus thèmes
+- Remarques :
+  - Bien insister sur l'INTERDICTION de toucher au contenu dans thèmes des submodules
+  - Bien penser au commentaire sur un commit GIT
