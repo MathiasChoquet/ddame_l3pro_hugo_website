@@ -136,7 +136,9 @@ Les thèmes choisis sont :
 
 - Chaque étudiant termine son site et le présente aux autres étudiants
   - Mathias Choquet : https://mathiaschoquet.github.io/ddame_l3pro_hugo_website/
+  - Loryne Pinon : https://leo-26-01.github.io/philosophie/
 - RETEX sur le cours
+
 
 # **RET**our d'**EX**périence
 
