@@ -138,6 +138,7 @@ Les thèmes choisis sont :
   - Mathias Choquet : https://mathiaschoquet.github.io/ddame_l3pro_hugo_website/
   - Loryne Pinon : https://leo-26-01.github.io/philosophie/
   - Alice Lemarchand : https://lyzz7z.github.io/lyz_portfolio/
+  - Aymeric Combes : https://hoohyunn.github.io/portfolio_2025/
 - RETEX sur le cours
 
 
