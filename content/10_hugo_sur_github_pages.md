@@ -41,75 +41,85 @@ Pour comprendre les exigences en matière de propriété et de nommage des dép�
 3. Ouvrez ce fichier et ajoutez-y le contenu suivant :
 
    ```yaml
-   # Workflow pour construire et déployer un site Hugo sur GitHub Pages
-   name: Déployer le site Hugo sur Pages
+   # Sample workflow for building and deploying a Hugo site to GitHub Pages
+   name: Deploy Hugo site to Pages
 
    on:
+     # Runs on pushes targeting the default branch
      push:
-       branches:
-         - main
+       branches: ["main"]
 
+     # Allows you to run this workflow manually from the Actions tab
      workflow_dispatch:
 
+   # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
    permissions:
      contents: read
      pages: write
      id-token: write
 
+   # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+   # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
    concurrency:
      group: "pages"
      cancel-in-progress: false
 
+   # Default to bash
+   defaults:
+     run:
+       shell: bash
+
    jobs:
+     # Build job
      build:
-       runs-on: ubuntu-latest
+       runs-on: ubuntu-latest # Use the latest Ubuntu runner
        env:
-         HUGO_VERSION: 0.144.2
+         HUGO_VERSION: 0.128.0 # Define the Hugo version to install
        steps:
-         - name: Installer Hugo CLI
+         # Download and install the specified Hugo version
+         - name: Install Hugo CLI
            run: |
              wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
              && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-         - name: Installer Dart Sass
+         - name: Install Dart Sass
            run: sudo snap install dart-sass
-         - name: Checkout du dépôt
+         - name: Checkout
            uses: actions/checkout@v4
            with:
-             submodules: recursive
-             fetch-depth: 0
-         - name: Configurer Pages
+             submodules: recursive # Ensure submodules are checked out
+         - name: Setup Pages
            id: pages
-           uses: actions/configure-pages@v5
-         - name: Installer les dépendances Node.js
+           uses: actions/configure-pages@v5 # Setup GitHub Pages configuration for deployment
+         - name: Install Node.js dependencies # install npm dependencies if needed
            run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-         - name: Construire le site avec Hugo
+         - name: Build with Hugo
            env:
-             HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
-             HUGO_ENVIRONMENT: production
-             TZ: America/Los_Angeles
+             HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache # use a temporary cache
+             HUGO_ENVIRONMENT: production # build with the hugo command
            run: |
              hugo \
-               --gc \
                --minify \
                --baseURL "${{ steps.pages.outputs.base_url }}/"
-         - name: Télécharger l'artifact
+         - name: Upload artifact
            uses: actions/upload-pages-artifact@v3
            with:
-             path: ./public
+             path: ./public # Upload the generated site for deployment (store it to deploy step)
 
+     # Deployment job
      deploy:
        environment:
-         name: github-pages
+         name: github-pages # Define the GitHub Pages environment
          url: ${{ steps.deployment.outputs.page_url }}
-       runs-on: ubuntu-latest
-       needs: build
+       runs-on: ubuntu-latest # Use the latest Ubuntu runner
+       needs: build # Ensure build completes before deploying
        steps:
-         - name: Déployer sur GitHub Pages
+         - name: Deploy to GitHub Pages
            id: deployment
            uses: actions/deploy-pages@v4
+           # Deploy the generated site to GitHub Pages
    ```
 
-   > **Remarque** : Adaptez la version de Hugo (`HUGO_VERSION`) selon vos besoins.
+> **Remarque** : Adaptez la version de Hugo (`HUGO_VERSION`) selon vos besoins.
 
 ## Pousser les modifications et déployer
 

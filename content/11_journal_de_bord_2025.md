@@ -117,15 +117,27 @@ Les thèmes choisis sont :
 
 ## Demandes
 
-- Insérer une vidéo dans un site et un site Hugo avec youtube
+- Insérer une vidéo dans un site et un site Hugo avec youtube : intégrer ce code dans un fichier markdown
 
-{{< youtube 920PckOijrI >}}
+```markdown
+{{ < youtube 920PckOijrI > }}
+```
+
+- rendu :
+  {{< youtube 920PckOijrI >}}
 
 # 5 eme cours
 
 - Evolutions des sites en fonctions des templates choisis par chacun.
 - Mise en ligne des sites avec github pages.
+- Réglages des bases URLS pour le bon affichage des images.
 
-## Demandes
+# 6 eme cours
+
+- Chaque étudiant termine son site et le présente aux autres étudiants
+  - Mathias Choquet : https://mathiaschoquet.github.io/ddame_l3pro_hugo_website/
+- RETEX sur le cours
+
+# **RET**our d'**EX**périence
 
 - TODO
