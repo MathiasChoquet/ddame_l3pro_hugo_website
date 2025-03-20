@@ -139,6 +139,7 @@ Les thèmes choisis sont :
   - Loryne Pinon : https://leo-26-01.github.io/philosophie/
   - Alice Lemarchand : https://lyzz7z.github.io/lyz_portfolio/
   - Aymeric Combes : https://hoohyunn.github.io/portfolio_2025/
+  - Jeanne Barbey : https://ficellily.github.io/les_fleurs/ 
 - Nous avons regardé la partie SEO générée par les sites hugo et le résultat est que le référencement à l'air plutôt bien fait (cf. plugin lighthouse de Google Chrome)
 - RETEX sur le cours
 

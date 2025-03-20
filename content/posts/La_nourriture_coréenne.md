@@ -9,7 +9,7 @@ author = "Jeanne"
 C'est trop bon ! Et bien épicé !
 La nourriture coréenne est un véritable voyage à travers les saveurs, mais aussi les traditions du pays. C'est une cuisine saine lorsqu'elle est cuisinée maison, et très savoureuse.
 Les principaux ingrédients sont le riz ("bap" en coréen), la pâte épicée gochujang, le kimchi, les algues séchées, des légumes et des viandes. 
-Il y a aussi des AAAAAAalcools, qui sauront se marier parfaitement avec les saveurs. Il y a par exemple le soju, le makgeolli et le cheonju. 
+Il y a aussi des AAAAAAAalcools, qui sauront se marier parfaitement avec les saveurs. Il y a par exemple le soju, le makgeolli et le cheonju. 
 Pour plus d'infos sur la nourriture coréenne :
 [La_cuisine_coréenne] (https://cahierdeseoul.com/cuisine-coreenne/)
 
