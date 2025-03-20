@@ -135,12 +135,15 @@ Les thèmes choisis sont :
 # 6 eme cours
 
 - Chaque étudiant termine son site et le présente aux autres étudiants
-  - Mathias Choquet : https://mathiaschoquet.github.io/ddame_l3pro_hugo_website/
+
   - Loryne Pinon : https://leo-26-01.github.io/philosophie/
   - Alice Lemarchand : https://lyzz7z.github.io/lyz_portfolio/
   - Aymeric Combes : https://hoohyunn.github.io/portfolio_2025/
   - Loan Ung : https://mightymolf.github.io/cv/
-  - Jeanne Barbey : https://ficellily.github.io/les_fleurs/ 
+  - Jeanne Barbey : https://ficellily.github.io/les_fleurs/
+  - Loïs Lamoussiere : https://loislamous.github.io/myresume
+  - Nahei Saint-Sevin : https://naheis09.github.io/les_animaux_marins/fr
+
 - Nous avons regardé la partie SEO générée par les sites hugo et le résultat est que le référencement à l'air plutôt bien fait (cf. plugin lighthouse de Google Chrome)
 - RETEX sur le cours
 
