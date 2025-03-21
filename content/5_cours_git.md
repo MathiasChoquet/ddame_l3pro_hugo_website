@@ -9,7 +9,7 @@ url="git"
 
 # Problématiques
 
-- Travailler à plusieurs sur un projet informatique.
+- Travailler à plusieurs sur un projet informatique. C'est super!!
 - Gérer qui a fait quoi sur les fichiers sources d’un projet :
 - Partage du développement entre plusieurs personnes.
 - Historique des modifications d’un fichier source.
