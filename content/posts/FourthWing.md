@@ -5,39 +5,42 @@ author = "MikanKurea"
 +++
 
 # Fourth Wing #1
+
 _A dragon without its rider is a tragedy. A rider without their dragon is dead._
 
 ![Couverture Fourth Wing tome 1](https://cdn1.booknode.com/book_cover/5806/full/fourth-wing-5805994.jpg)
 
-> I will not die today. 
+> I will not die today.
 
-- Violet Sorrengail 
-    - Tairn : black morningstartail 
-    - Andarna : golden feathertail
+- Violet Sorrengail
+  - Tairn : black morningstartail
+  - Andarna : golden feathertail
 
-> Hope is a fickle, dangerous thing. Damn...
+> Hope is a fickle, dangerous thing!!!!!! Damn...
 
-- Xaden Riorson <3
-    - Sgayl : navy-blue daggertail
+- Xaden Riorson
+  - Sgayl : navy-blue daggertail
 
-| Characters | Dragons |
-| ---------- | ------- |
-| Rhiannon Matthias | Feirge |
-| Ridoc Gamlyn | Aotrom |
-| Liam Mairi | Deigh |
-| Jack Barlowe | Baide |
+| Characters        | Dragons |
+| ----------------- | ------- |
+| Rhiannon Matthias | Feirge  |
+| Ridoc Gamlyn      | Aotrom  |
+| Liam Mairi        | Deigh   |
+| Jack Barlowe      | Baide   |
+| Jack Barlowe      | Baides  |
 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-__Violet__ Sorrengail is forced by her mother, a high-ranking general in the kingdom of Navarre, to enroll in the dangerous and brutal training to become an elite dragon rider at __Basgiath War College__. There, she meets __Xaden__ whose father was executed by Violet's mother for leading a rebellion five years ago. Violet manages to survive training, especially the Gauntlet, and even makes friends among her squad (Rhiannon, Sawyer, Ridoc). At Threshing, she bonds with not one but two dragons -- __Tairn__, a large black dragon, and __Andarna__, a small golden adolescent dragon -- something that has never happened before. Tairn is mated with Xaden's dragon __Sgaeyl__, which creates a bond between Xaden and Violet. As Xaden helps to train and protect Violet - including adressing her a bodygard (Liam), they develop feelings for each other.
+**Violet** Sorrengail is forced by her mother, a high-ranking general in the kingdom of Navarre, to enroll in the dangerous and brutal training to become an elite dragon rider at **Basgiath War College**. There, she meets **Xaden** whose father was executed by Violet's mother for leading a rebellion five years ago. Violet manages to survive training, especially the Gauntlet, and even makes friends among her squad (Rhiannon, Sawyer, Ridoc). At Threshing, she bonds with not one but two dragons -- **Tairn**, a large black dragon, and **Andarna**, a small golden adolescent dragon -- something that has never happened before. Tairn is mated with Xaden's dragon **Sgaeyl**, which creates a bond between Xaden and Violet. As Xaden helps to train and protect Violet - including adressing her a bodygard (Liam), they develop feelings for each other.
 
-Eventually, Violet discovers her "signet power" (a power manifested from the bond between the dragon and rider) of wielding lightning. Just before graduation, Violet goes with Xaden and a small group he trusts to complete a mission at an outpost outside the kingdom's boundaries. Xaden reveals he and his friends - marked ones - have been delivering weapons to help protect __Poromiel__, their enemies. Navarre has been under attack by gryphon fliers from nearby Poromiel out of need for resources from Navarre to fight off "venin" -- people who have been corrupted by channeling dark magic. __Venin__ absorb the life force and magic from things around them and they are able to and conjure wyvern to fight off dragons. Navarrian authorities have led people to believe Poromiel is simply greedy and war hungry, and they deny the existence of venin.
+Eventually, Violet discovers her "signet power" (a power manifested from the bond between the dragon and rider) of wielding lightning. Just before graduation, Violet goes with Xaden and a small group he trusts to complete a mission at an outpost outside the kingdom's boundaries. Xaden reveals he and his friends - marked ones - have been delivering weapons to help protect **Poromiel**, their enemies. Navarre has been under attack by gryphon fliers from nearby Poromiel out of need for resources from Navarre to fight off "venin" -- people who have been corrupted by channeling dark magic. **Venin** absorb the life force and magic from things around them and they are able to and conjure wyvern to fight off dragons. Navarrian authorities have led people to believe Poromiel is simply greedy and war hungry, and they deny the existence of venin.
 
-Xaden figures out that Violet's childhood friend, __Dain__ Aetos, has secretly been using his power of seeing someone's recent memories, on Violet without her consent in order to glean information about Xaden's activities. Violet agrees to join Xaden's fight as they engage in a deadly battle when venin attack nearby. After __Liam__ dies saving her, Violet's lightning bolts are able to help kill the wyvern and the venin. When Violet recovers, she learns that her brother __Brennan__ (who she believed to have been killed during the rebellion) is alive and part of the revolutionaries.
+Xaden figures out that Violet's childhood friend, **Dain** Aetos, has secretly been using his power of seeing someone's recent memories, on Violet without her consent in order to glean information about Xaden's activities. Violet agrees to join Xaden's fight as they engage in a deadly battle when venin attack nearby. After **Liam** dies saving her, Violet's lightning bolts are able to help kill the wyvern and the venin. When Violet recovers, she learns that her brother **Brennan** (who she believed to have been killed during the rebellion) is alive and part of the revolutionaries.
 
 [Pour en savoir plus](https://the-bibliofile.com/fourth-wing-recap-chapter-summary-spoilers/#quicksummary)
 
-
 # Iron Flame #2
+
 _One generation to change the text. One generation chooses to teach that text. The next grows, and the lie becomes history._
 
 In Part I, When Violet returns to Basgiath for her second year, all riders who were at Athebyne are being hunted. Because the revolutionary town of Aretia has a unpowered wardstone, Violet makes it her mission to learn how to power up a wardstone so they can put up a new ward against venin - the corrupted souls attacking outside Navarre's borders. Meanwhile, Xaden works on building a forge in Aretia capable of smelting daggers that can kill venin.

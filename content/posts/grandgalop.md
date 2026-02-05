@@ -16,7 +16,7 @@ Grand Galop est une série qui fait rêver tous les fans de chevaux et d’avent
 + Des histoires captivantes : amitié, compétition, mystères… tout est là pour tenir en haleine.
 + Une ambiance équestre authentique : on découvre le monde des centres équestres, les soins aux chevaux, et l’apprentissage du métier de cavalier.
 
-Comme le dit si bien l’héroïne, Carole :
+Comme le dit si bien, Carole :
 >« Le cheval, c’est plus qu’un animal, c’est un ami qui comprend tout sans un mot. »
 
 ![cheval avec une dame en robe](https://defemmeacheval.com/wp-content/uploads/2024/03/si-on-les-aime-doit-on-monter-les-chevaux-equitation-ethique-laure-souquet-de-femme-a-cheval-formation-equestres-en-ligne.jpg)
