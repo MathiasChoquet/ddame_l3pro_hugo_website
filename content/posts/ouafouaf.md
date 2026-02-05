@@ -59,3 +59,8 @@ C’est un peu comme un truc magique sur leur tête qui montre s’ils sont un l
 
 ### Comme l’a dit un grand chien :
 > "Ouaf ouaf"
+
+| chieng | couleur |
+| --------- | --------- |
+| labrador, cocker | doré, brun ou noir |
+|  caniche | doré, blanc, noir, brun |
