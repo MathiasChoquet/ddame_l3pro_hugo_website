@@ -17,3 +17,5 @@ Avoir 23 ans c'est vieux. Aurélia tu es vieille. Mais ça va aller tu t'y fera,
 ## vieille mais pas sage
 ___
 On dit qu’on devient sage avec l’âge, toi tu prends surtout de l’âge, et c’est déjà pas mal. Tu avances dans les années comme on traverse une flaque : sans vraiment regarder où tu mets les pieds, mais toujours avec le sourire. Tu n’as pas appris à être raisonnable, juste à assumer un peu mieux tes élans. Et au fond, c’est peut-être ça ton charme : rester imprévisible sans jamais perdre ta douceur. Vieillir sans t’assagir, chez toi, ça ressemble surtout à une façon très discrète d’aimer la vie.
+
+# lisa marie blanchemin est une princesse 
