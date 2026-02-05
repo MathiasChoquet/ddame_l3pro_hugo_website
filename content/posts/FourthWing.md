@@ -1,28 +1,30 @@
 +++
-date = '2024-12-21T11:03:56+01:00'
+date = '2026-02-04T11:03:56+01:00'
 title = 'La saga Fourth Wing'
 author = "MikanKurea"
 +++
 
 # Fourth Wing #1
-_A dragon without its rider is a tragedy._
-_A rider without their dragon is dead._
+_A dragon without its rider is a tragedy. A rider without their dragon is dead._
 
-! [Couverture Fourth Wing tome 1](https://cdn1.booknode.com/book_cover/5806/full/fourth-wing-5805994.jpg)
+![Couverture Fourth Wing tome 1](https://cdn1.booknode.com/book_cover/5806/full/fourth-wing-5805994.jpg)
+
+> I will not die today. 
 
 - Violet Sorrengail 
-> I will not die today.
-    - Tairn : black morningstartail
+    - Tairn : black morningstartail 
     - Andarna : golden feathertail
 
-- Xaden Riorson
 > Hope is a fickle, dangerous thing.
+
+- Xaden Riorson
     - Sgayl : navy-blue daggertail
 
 | Characters | Dragons |
-| Rhiannon Mattias | Feirge |
-| Ridoc Gamlyn | ?? |
-| Liam Mairi | ?? |
+| ---------- | ------- |
+| Rhiannon Matthias | Feirge |
+| Ridoc Gamlyn | Aotrom |
+| Liam Mairi | Deigh |
 | Jack Barlowe | Baide |
 
 
@@ -32,7 +34,7 @@ Eventually, Violet discovers her "signet power" (a power manifested from the bon
 
 Xaden figures out that Violet's childhood friend, __Dain__ Aetos, has secretly been using his power of seeing someone's recent memories, on Violet without her consent in order to glean information about Xaden's activities. Violet agrees to join Xaden's fight as they engage in a deadly battle when venin attack nearby. After __Liam__ dies saving her, Violet's lightning bolts are able to help kill the wyvern and the venin. When Violet recovers, she learns that her brother __Brennan__ (who she believed to have been killed during the rebellion) is alive and part of the revolutionaries.
 
-[Pour en savoir plus : ] (https://the-bibliofile.com/fourth-wing-recap-chapter-summary-spoilers/#quicksummary)
+[Pour en savoir plus](https://the-bibliofile.com/fourth-wing-recap-chapter-summary-spoilers/#quicksummary)
 
 
 # Iron Flame #2
