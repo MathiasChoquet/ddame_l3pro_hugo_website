@@ -16,7 +16,7 @@ _A dragon without its rider is a tragedy. A rider without their dragon is dead._
   - Tairn : black morningstartail
   - Andarna : golden feathertail
 
-> Hope is a fickle, dangerous thing!!!!!!
+> Hope is a fickle, dangerous thing!!!!!! Damn...
 
 - Xaden Riorson
   - Sgayl : navy-blue daggertail
