@@ -19,3 +19,15 @@ Retour des étudiants : Il existe beaucoup de thèmes et une majorité est trop 
 
 _NB:_ Problème avec le thème gallery : https://github.com/nicokaiser/hugo-theme-gallery
 Il faut lancer le script "exampleSite/pull-images.sh" pour récupérer les images. Pour éviter les problèmes, une archive zip du repertoire content téléchargé est disponible [ICI](/archives/hugo-theme-gallery-test_content.zip).
+
+## Pré-Sélection de thèmes :
+
+- blogs :
+  - https://themes.gohugo.io/themes/not-much/
+  - https://github.com/g1eny0ung/hugo-theme-dream
+- CV :
+  - https://github.com/eddiewebb/hugo-resume
+- site classique avec grand bandeau :
+  - https://themes.gohugo.io/themes/gohugo-theme-ananke/
+- galery photo :
+  - https://themes.gohugo.io/themes/hugo-theme-gallery/
