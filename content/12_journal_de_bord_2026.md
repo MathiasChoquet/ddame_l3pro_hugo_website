@@ -18,7 +18,7 @@ Présentation Hugo, choix des templates par les étudiants et récupération des
 Retour des étudiants : Il existe beaucoup de thèmes et une majorité est trop compliqué pour être utilisé pour cette initiation, il faudrait fournir une sous-selection de thèmes pour les années suivantes
 
 _NB:_ Problème avec le thème gallery : https://github.com/nicokaiser/hugo-theme-gallery
-Il faut lancer le script "exampleSite/pull-images.sh" pour récupérer les images. Pour éviter les problèmes, une archive zip du repertoire content téléchargé est disponible [ICI](/archives/hugo-theme-gallery-test_content.zip).
+Il faut lancer le script "exampleSite/pull-images.sh" pour récupérer les images. Pour éviter les problèmes, une archive zip du repertoire content téléchargé est disponible [ICI](/ddame_l3pro_hugo_website/archives/hugo-theme-gallery-test_content.zip).
 
 ## Pré-Sélection de thèmes :
 
