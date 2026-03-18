@@ -31,3 +31,9 @@ Il faut lancer le script "exampleSite/pull-images.sh" pour récupérer les image
   - https://themes.gohugo.io/themes/gohugo-theme-ananke/
 - galery photo :
   - https://themes.gohugo.io/themes/hugo-theme-gallery/
+
+# 4ème cours (18 mars 2026)
+
+Pour les image le chemin doit être le suivant : /NOM_DU_SITE_SUR_GITHUB/images/slide_1.jpg
+
+Préparer une explication sur le format JSON.

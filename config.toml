@@ -73,9 +73,9 @@ ______custom_css______ = ["css/style.css"]
   weight = 10  
 
   [[menu.main]]
-  identifier = "jekyll"
-  name = "Jekyll"
-  url = "/jekyll"
+  identifier = "json"
+  name = "JSON"
+  url = "/json"
   weight = 11 
 
   [[menu.main]]
