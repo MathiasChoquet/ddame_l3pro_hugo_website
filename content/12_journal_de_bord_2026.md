@@ -36,4 +36,6 @@ Il faut lancer le script "exampleSite/pull-images.sh" pour récupérer les image
 
 Pour les image le chemin doit être le suivant : /NOM_DU_SITE_SUR_GITHUB/images/slide_1.jpg
 
-Préparer une explication sur le format JSON.
+Chacun a avancé sur son site. Séance productive et plaisante pour les étudiants.
+
+Préparer une introduction aux templates.
