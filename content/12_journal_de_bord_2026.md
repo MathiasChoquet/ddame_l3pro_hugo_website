@@ -42,4 +42,4 @@ Préparer une introduction aux templates.
 
 # 5ème cours (25 mars 2026)
 
-Cours sur les page github
+Cours sur les pages github. Des difficultés pour les sites qui ont été forkés.
