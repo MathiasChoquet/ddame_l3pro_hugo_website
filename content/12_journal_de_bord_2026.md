@@ -39,3 +39,7 @@ Pour les image le chemin doit être le suivant : /NOM_DU_SITE_SUR_GITHUB/images/
 Chacun a avancé sur son site. Séance productive et plaisante pour les étudiants.
 
 Préparer une introduction aux templates.
+
+# 5ème cours (25 mars 2026)
+
+Cours sur les page github
