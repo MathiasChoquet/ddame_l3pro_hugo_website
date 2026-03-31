@@ -1,17 +1,26 @@
-{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
-  <div class="flex-l mt2 mw9 center">
-    <article class="center cf pv5 mw9">
-      <header>
-        <h1 class="f1">
-          {{ .Title }} !!!
-        </h1>
-      </header>
-      <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
-        {{ .Content }}
-      </div>
-    </article>
-  </div>
+<div class="flex-l mt2 mw9 center">
+  <article class="center cf pv5 mw9">
+    <header>
+      <h1 class="f1">
+        {{ .Title }} !
+      </h1>
+    </header>
 
+    {{ if .Params.competences }}
+    <div class="mv4">
+      <h2 class="f4 fw6 ttu tracked mid-gray mb3">Compétences</h2>
+      <ul class="list pl0 flex">
+        {{ range .Params.competences }}
+        <li class="ph3 pv2 br2 bg-light-blue dark-blue f5 fw5 mr2 mb2">{{ . }}</li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+
+    <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param " text_color" | default "mid-gray" }}">
+      {{ .Content }}
+    </div>
+  </article>
+</div>
 {{ end }}
-

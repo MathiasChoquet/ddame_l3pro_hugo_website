@@ -1,0 +1,30 @@
+{{ define "main" }}
+<div class="flex-l mt2 mw9 center">
+  <article class="center cf pv5 mw7">
+
+    <header class="mb5">
+      <h1 class="f1 fw6 dark-gray">{{ .Title }} !!</h1>
+    </header>
+
+    <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param " text_color" | default "mid-gray" }}">
+      {{ .Content }}
+    </div>
+
+    {{ range .Params.liens }}
+    <section class="mb5">
+      <h2 class="f4 fw6 ttu tracked mid-gray bb b--light-gray pb2 mb3">{{ .categorie }}</h2>
+      <ul class="list pl0">
+        {{ range .sites }}
+        <li class="mb2">
+          <a class="f4 dark-blue link dim" href="{{ .url }}" target="_blank" rel="noopener">
+            &#8599; {{ .label }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </section>
+    {{ end }}
+
+  </article>
+</div>
+{{ end }}

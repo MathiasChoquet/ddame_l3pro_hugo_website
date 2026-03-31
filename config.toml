@@ -107,3 +107,9 @@ ______custom_css______ = ["css/style.css"]
   name = "Journal de bord 2026"
   url = "/journal2026"
   weight = 12
+
+  [[menu.main]]
+  identifier = "exemple-template"
+  name = "Exemple de template"
+  url = "/exemple-template"
+  weight = 13
