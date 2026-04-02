@@ -46,20 +46,22 @@ Cours sur les pages github. Des difficultés pour les sites qui ont été forké
 
 # 6ème cours (1er avril 2026)
 
-## Templates : 
- - [Le cours](/ddame_l3pro_hugo_website/hugo) 
- - [L'exemple](/ddame_l3pro_hugo_website/exemple-template) 
+## Templates :
+
+- [Le cours](/ddame_l3pro_hugo_website/hugo)
+- [L'exemple](/ddame_l3pro_hugo_website/exemple-template)
 
 ## **RET**our d'**EX**périence
 
-- XML/HTML/CSS =>
-  - XML : RAS
-  - ON peut sauter les exos sur HTML/CSS (déjà vu un peu avant)
-- Git => RAS
-- Installation golang/hugo (Mac et Windows) => Laborieux : Les retex ont été ajoutés au support
+- Git => début difficile au début. Bien
+- Installation golang/hugo (Mac et Windows) =>
+  - Laborieux. Allez plus lentement sur les explications.
+  - besoins : Plus expliquer ce qu'on fait et pourquoi.
+  - **Idée** : Faire tenir un glossaire par les étudiants sur ce site partagé pour les faire travailler sur Git et s'approprier les nouveaux apprentissages de ce cours.
 - Hugo :
-  - Expériences différentes de part le diversité des thèmes
-  - Peut être proposer plus de petits sites pour expérimenter plusieus thèmes
+  - Proposer des templates déjà prédéfinis (même un nombre réduit).
+  - Faire plusieurs sites avec Hugo pendant les 16 heures ont été bien.
 - Remarques :
-  - Bien insister sur l'INTERDICTION de toucher au contenu dans thèmes des submodules
+  - Bien insister sur l'INTERDICTION de toucher au contenu dans thèmes des submodules.
+  - Bien les mini articles dans le site commun
   - Bien penser au commentaire sur un commit GIT

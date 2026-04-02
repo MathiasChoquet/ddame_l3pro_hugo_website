@@ -5,8 +5,6 @@ date = "2025-03-01"
 description = "Cette page illustre le lien entre le front matter d'un fichier Markdown et le template Hugo qui l'affiche."
 
 [params]
-  auteur = "Alice Dupont"
-  niveau = "débutant"
   competences = ["HTML", "CSS", "Hugo", "Template"]
 +++
 
@@ -28,9 +26,9 @@ date = "2025-03-01"
 description = "Cette page illustre le lien entre le front matter..."
 
 [params]
-  auteur = "Alice Dupont"
+  auteur = "Mathias CHOQUET"
   niveau = "débutant"
-  competences = ["HTML", "CSS", "Hugo"]
+  competences = ["HTML", "CSS", "Hugo","template"]
 ```
 
 ---
@@ -39,26 +37,26 @@ description = "Cette page illustre le lien entre le front matter..."
 
 Dans un template Hugo, on écrit :
 
-| Expression dans le template | Valeur affichée |
-|---|---|
-| `{{ .Title }}` | Exemple de template |
-| `{{ .Date.Format "02/01/2006" }}` | 01/03/2025 |
-| `{{ .Description }}` | Cette page illustre... |
-| `{{ .Params.auteur }}` | Alice Dupont |
-| `{{ .Params.niveau }}` | débutant |
+| Expression dans le template       | Valeur affichée        |
+| --------------------------------- | ---------------------- |
+| `{{ .Title }}`                    | Exemple de template    |
+| `{{ .Date.Format "02/01/2006" }}` | 01/03/2025             |
+| `{{ .Description }}`              | Cette page illustre... |
+| `{{ .Params.auteur }}`            | Alice Dupont           |
+| `{{ .Params.niveau }}`            | débutant               |
 
 Et pour la liste `competences`, on utilise `range` :
 
 ```html
 {{ range .Params.competences }}
-  <li>{{ . }}</li>
+<li>{{ . }}</li>
 {{ end }}
 ```
 
 Ce qui produira :
+
 - HTML
 - CSS
 - Hugo
 
 ---
-
